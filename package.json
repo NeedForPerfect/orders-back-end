@@ -1,0 +1,15 @@
+{
+  "name": "films",
+  "version": "1.0.0",
+  "description": "Films data base",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimit",
+  "license": "MIT"
+}
