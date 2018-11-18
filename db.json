@@ -170,7 +170,7 @@
     },
     {
       "id": 18,
-      "name": "Potatoes",
+      "name": "Potatoes(1)",
       "measure": "kg",
       "lot": 1,
       "category": 3,
@@ -340,31 +340,52 @@
       "id": 6
     },
     {
-      "date": 1542538726083,
+      "date": 1542545384697,
       "products": [
         {
-          "name": "Lime",
-          "quantity_lot": 4,
-          "quantity_measure": 4,
+          "name": "Carrots",
+          "quantity_lot": 5,
+          "quantity_measure": 25,
           "measure": "kg",
-          "price": 6
+          "price": 91
         },
         {
-          "name": "Blackberry",
-          "quantity_lot": 4,
-          "quantity_measure": 4,
+          "name": "Pumpkin",
+          "quantity_lot": 10,
+          "quantity_measure": 10,
           "measure": "kg",
-          "price": 20
+          "price": 212.5
         },
         {
-          "name": "Apple",
-          "quantity_lot": 54,
-          "quantity_measure": 270,
+          "name": "Orange",
+          "quantity_lot": 15,
+          "quantity_measure": 75,
           "measure": "kg",
-          "price": 829.98
+          "price": 450
+        },
+        {
+          "name": "Milk 2%",
+          "quantity_lot": 5,
+          "quantity_measure": 50,
+          "measure": "L",
+          "price": 1.15
+        },
+        {
+          "name": "Eggs",
+          "quantity_lot": 5,
+          "quantity_measure": 500,
+          "measure": "pcs.",
+          "price": 131.5
+        },
+        {
+          "name": "Turkey",
+          "quantity_lot": 2,
+          "quantity_measure": 20,
+          "measure": "kg",
+          "price": 113.74
         }
       ],
-      "total": 855.98,
+      "total": 999.89,
       "id": 7
     }
   ]
